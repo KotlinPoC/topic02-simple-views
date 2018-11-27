@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">week2-rw-views</string>
+    <string name="app_name">read write views</string>
     <string name="action_settings">Settings</string>
     <string name="message">Guess the Magic word:</string>
     <string name="hint">write here</string>

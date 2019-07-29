@@ -2,13 +2,12 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 
 android {
-    compileSdkVersion 22
-    buildToolsVersion "28.0.2"
+    compileSdkVersion 29
 
     defaultConfig {
         applicationId "ca.campbell.simple_views"
-        minSdkVersion 21
-        targetSdkVersion 22
+        minSdkVersion 22
+        targetSdkVersion 29
     }
 
     buildTypes {
